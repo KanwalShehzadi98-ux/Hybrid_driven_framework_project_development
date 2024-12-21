@@ -11,6 +11,7 @@ git push origin master
 -----------------------------3------------------------
 git pull "https://github.com/KanwalShehzadi98-ux/Hybrid_driven_framework_project_development.git"
 git commit -m "github commands guide here"
+git push origin master
 -----------------------------4-------------------------
 git status
 git add -A
