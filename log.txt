@@ -1,0 +1,11 @@
+git init
+git config --global user.name "KanwalShehzadi98-ux"
+git config --global user.email "kanwalshehz64@gmail.com"
+git add -A
+git commit -m "Project First Commit"
+git status
+git remote add origin "https://github.com/KanwalShehzadi98-ux/Hybrid_driven_framework_project_development.git"
+git push origin master
+ipconfig > output.txt
+echo ipconfig > output.txt && ipconfig >> output.txt
+doskey /history > log.txt
