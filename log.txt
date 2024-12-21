@@ -1,15 +1,19 @@
-//////////////ROUND 01/////////////////////
+-----------------------------1-------------------------
 git init
 git config --global user.name "KanwalShehzadi98-ux"
 git config --global user.email "kanwalshehz64@gmail.com"
 git commit -m "Project First Commit"
 git remote add origin "https://github.com/KanwalShehzadi98-ux/Hybrid_driven_framework_project_development.git"
-ipconfig > output.txt
-echo ipconfig > output.txt && ipconfig >> output.txt
-
-//////////////ROUND 02/////////////////////
+git push origin master
+-----------------------------2-------------------------
+git commit -m "removed logs and reports, added another empty testcase"
+git push origin master
+-----------------------------3------------------------
+git pull "https://github.com/KanwalShehzadi98-ux/Hybrid_driven_framework_project_development.git"
+git commit -m "github commands guide here"
+-----------------------------4-------------------------
 git status
 git add -A
-git commit -m "removed logs and reports, added another empty testcase"
+git commit -m "4th_scenario"
 git push origin master
 doskey /history > log.txt
