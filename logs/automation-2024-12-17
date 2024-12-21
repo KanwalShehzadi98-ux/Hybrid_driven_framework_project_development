@@ -1,0 +1,51 @@
+2024-12-17 18:23:33.508 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PMLS\eclipse-workspace\Project\testng.xml"
+2024-12-17 18:23:33.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PMLS\eclipse-workspace\Project\testng.xml
+
+2024-12-17 18:23:38.653 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2024-12-17 18:23:38.928 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Clicked Account -----
+2024-12-17 18:23:39.586 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Register Account -----
+2024-12-17 18:23:39.587 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Providing customer details -----
+2024-12-17 18:23:41.997 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Validating Expected Message -----
+2024-12-17 18:23:41.997 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2024-12-17 18:23:41.998 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+2024-12-17 18:24:32.224 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PMLS\eclipse-workspace\Project\testng.xml"
+2024-12-17 18:24:32.718 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PMLS\eclipse-workspace\Project\testng.xml
+
+2024-12-17 18:24:36.648 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2024-12-17 18:24:36.905 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Clicked Account -----
+2024-12-17 18:24:37.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Register Account -----
+2024-12-17 18:24:37.659 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Providing customer details -----
+2024-12-17 18:24:45.493 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Validating Expected Message -----
+2024-12-17 18:24:45.493 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2024-12-17 18:24:45.493 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+2024-12-17 18:35:49.089 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PMLS\eclipse-workspace\Project\parallelBrowsertestng.xml"
+2024-12-17 18:35:49.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PMLS\eclipse-workspace\Project\parallelBrowsertestng.xml
+
+2024-12-17 18:36:46.228 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2024-12-17 18:36:46.608 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ----- Clicked Account -----
+2024-12-17 18:36:50.046 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ----- Register Account -----
+2024-12-17 18:36:50.046 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ----- Providing customer details -----
+2024-12-17 18:37:05.989 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ----- Validating Expected Message -----
+2024-12-17 18:37:05.990 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2024-12-17 18:37:05.990 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+2024-12-17 18:39:09.661 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2024-12-17 18:39:09.928 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ----- Clicked Account -----
+2024-12-17 18:39:12.177 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ----- Register Account -----
+2024-12-17 18:39:12.177 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ----- Providing customer details -----
+2024-12-17 18:39:21.608 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ----- Validating Expected Message -----
+2024-12-17 18:39:21.608 [TestNG-tests-2] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2024-12-17 18:39:21.608 [TestNG-tests-2] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+2024-12-17 18:54:49.693 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PMLS\eclipse-workspace\Project\testng1.xml"
+2024-12-17 18:54:50.044 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PMLS\eclipse-workspace\Project\testng1.xml
+
+2024-12-17 18:54:54.529 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest ******
+2024-12-17 18:54:54.668 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Clicked Account -----
+2024-12-17 18:54:55.437 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Register Account -----
+2024-12-17 18:54:55.437 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Providing customer details -----
+2024-12-17 18:55:02.686 [main] INFO  testCases.TC001_AccountRegistrationTest - ----- Validating Expected Message -----
+2024-12-17 18:55:02.686 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed
+2024-12-17 18:55:02.686 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
