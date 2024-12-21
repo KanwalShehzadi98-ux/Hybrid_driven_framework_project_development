@@ -19,3 +19,4 @@ git commit -m "4th_scenario"
 git push origin master
 doskey /history > log.txt
 ----------------------------5---------------------------
+git clone "url-of-the-repo"
